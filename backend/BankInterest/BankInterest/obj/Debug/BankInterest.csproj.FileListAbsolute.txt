@@ -1,0 +1,5 @@
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterest\bin\Debug\BankInterest.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterest\bin\Debug\BankInterest.pdb
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterest\obj\Debug\BankInterest.csprojAssemblyReference.cache
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterest\obj\Debug\BankInterest.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterest\obj\Debug\BankInterest.pdb

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<body>
+    <h1>Interest Rate Calculator</h1>
+    <hr>
+    <div>
+        <form>
+            <div id="input-group">
+                <label for="amount"> Annual Deposit: </label>
+                <input name="amount" value="1000" type="text" id="amount">
+            </div>
+            <div id="input-group">
+                <label for="rate"> Interest Rate:</label>
+                <input name="rate" value="0" type="text" id="rate">
+            </div>
+            <div id="input-group">
+                <label for="years">Number of Years: </label>
+                <input name="years" value="10" type="text" id="years">
+                <div id="input-group">
+
+                    <input type="button" value="Calculate Simple Interest" onclick="displaySimpleInterest()">
+                    <input type="button" value="Calculate Monthly Compound Interest"
+                        onclick="displayCompoundInterest()">
+        </form>
+        <br>
+        <hr>
+        <br>
+        <p><span id="totalAmount"></span></p>
+
+    </div>
+</body>
+
+<script>
+
+
+   
+
+    function displaySimpleInterest() {
+        let amount = parseFloat(document.getElementById('amount').value);
+    let interest = parseFloat(document.getElementById('rate').value);
+    let numYears = parseFloat(document.getElementById('years').value);
+
+        if (interest > 0) {
+            total = (amount * numYears) + (amount * (interest / 100) * numYears);
+        } else {
+            total = amount * numYears;
+        }
+        document.getElementById("totalAmount").innerText = ("Total Amount: $" + total.toFixed(2));
+    }
+
+    function displayCompoundInterest() {
+        let total = 0;
+         let amount = parseFloat(document.getElementById('amount').value);
+    let interest = parseFloat(document.getElementById('rate').value);
+    let numYears = parseFloat(document.getElementById('years').value);
+
+        if (interest > 0) {
+            for (let i = 1; i <= numYears; i++) {
+                total += amount * Math.pow(1 + ((interest / 100) / numYears), (12 * i));
+            }
+        }
+        else {
+            total = amount * numYears;
+        }
+        document.getElementById("totalAmount").innerText = ("Total Amount: $" + total.toFixed(2));
+    }
+
+</script>

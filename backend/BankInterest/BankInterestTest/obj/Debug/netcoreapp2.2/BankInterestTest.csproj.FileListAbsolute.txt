@@ -1,0 +1,16 @@
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterestTest.deps.json
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterestTest.runtimeconfig.json
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterestTest.runtimeconfig.dev.json
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterestTest.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterestTest.pdb
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterest.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\bin\Debug\netcoreapp2.2\BankInterest.pdb
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.csprojAssemblyReference.cache
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.AssemblyInfoInputs.cache
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.AssemblyInfo.cs
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.csproj.CopyComplete
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.dll
+C:\Users\alexa\Projects\projects\Anautics\backend\BankInterest\BankInterestTest\obj\Debug\netcoreapp2.2\BankInterestTest.pdb
